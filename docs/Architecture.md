@@ -1,7 +1,7 @@
 # Architectural Essentials
 
 This part outlines the core goals that guide the architecture of the project.  
-They represent the fundamental qualities required to keep the project sustainable, adaptable, and cohesive.
+They represent the fundamental qualities assumed to be required to keep the project sustainable, adaptable, and cohesive.
 
 ## 1. Extensibility
 **Goal:** The system should allow new features to be added without breaking existing functionality.  
