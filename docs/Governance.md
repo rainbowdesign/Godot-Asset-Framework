@@ -9,12 +9,7 @@ All decisions should be based on clear reasoning. Contributors are encouraged to
 For major project decisions—such as architectural direction, feature scope, or coding standards—the preferred outcome is consensus. Contributors are expected to engage in constructive discussion, listen to differing perspectives, and work toward solutions that balance practicality with long-term sustainability.
 
 ## 3. Adaptability When Consensus Cannot Be Reached
-If consensus cannot be reached, the governance approach may be adapted to ensure progress. This may involve:
-- A vote among maintainers,
-- Delegation of authority to a designated lead,
-- Or another agreed-upon mechanism.
-
-The guiding principle is that the project must remain active and forward-moving, even when opinions differ.
+If consensus cannot be reached, the governance approach may be adapted to ensure the project remains cohesive and united.  
 
 ## 4. Transparency
 All significant decisions should be documented in the repository (e.g., in issues, pull requests, or dedicated decision records). This ensures that contributors and future maintainers understand the reasoning behind past choices.
