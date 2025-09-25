@@ -71,6 +71,6 @@ The following topics represent key points where trade‑offs exist and consensus
 - However, this remains a personal decision of the contributor who authors the module, and they may choose the balance between speed and completeness for their own work.
 
 ## 6. Coding Style
-
-This project follows the official [Godot GDScript Style Guide](https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/gdscript_styleguide.html).
+**Question:** What coding style would the Project use?
+**Possible answer:** This project follows the official [Godot GDScript Style Guide](https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/gdscript_styleguide.html).
 [Godot C# Style Guide](https://docs.godotengine.org/en/stable/tutorials/scripting/c_sharp/c_sharp_style_guide.html)
